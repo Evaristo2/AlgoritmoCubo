@@ -1,0 +1,28 @@
+================================================================================
+Uma breve descrição do que se trata esse algoritmo do cubo:
+
+ Adotando dois pontos em um determinado cubo, podemos nos perguntar: como 
+podemos chegar de um ponto até o outro? Qual a distância desses pontos?
+Na matemática a menor distância entre dois pontos é uma reta, logo quando
+estamos discutindo em como ir de um ponto ao outro, solucionamos com uma
+reta. Nesse sentido, foi desenhado um cubo não maciço onde temos dois pontos
+A e B, onde um objeto muito pequeno irá percorrer um caminho, nesse exemplo
+utilizaremos uma formiga como objeto.
+ No primeiro exemplo do cubo, temos um espaço tridimendional com
+três eixos (x,y,z). Para calcular a distância, ou melhor a reta, entre dois
+pontos temos uma equação para isso: A Equação de Pitágoras. Essa equação foi
+implementada no cubo.
+ No segundo exemplo temos um cubo aberto, onde cada lado do cubo está
+representado com um quadrado, como no esquema. Nesse ambiente, bidimensional,
+o plano cartesiano é implementado.
+Então vamos achar o valor da reta, que seria o melhor caminho que a formiga
+irá percorrer.
+
+Se quiser observar os cálculos para achar a distância/reta dos pontos A e B
+escolha qual exemplo quer ver primeiro:
+
+1 - Exemplo 1 - Cubo fechado (espaço tridimensional)
+2 - Exemplo 2 - Cubo aberto  (espaço bidimensional)
+3 - Voltar para o Menu
+
+================================================================================
